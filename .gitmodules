@@ -1,0 +1,21 @@
+[submodule "platform/edusubmit-config-server"]
+	path = platform/edusubmit-config-server
+	url = https://github.com/ShenSingh/edusubmit-config-server.git
+[submodule "platform/edusubmit-discovery-server"]
+	path = platform/edusubmit-discovery-server
+	url = https://github.com/ShenSingh/edusubmit-discovery-server.git
+[submodule "platform/edusubmit-api-gateway"]
+	path = platform/edusubmit-api-gateway
+	url = https://github.com/ShenSingh/edusubmit-api-gateway.git
+[submodule "services/edusubmit-student-service"]
+	path = services/edusubmit-student-service
+	url = https://github.com/ShenSingh/edusubmit-student-service.git
+[submodule "services/edusubmit-submission-service"]
+	path = services/edusubmit-submission-service
+	url = https://github.com/ShenSingh/edusubmit-submission-service.git
+[submodule "services/edusubmit-file-service"]
+	path = services/edusubmit-file-service
+	url = https://github.com/ShenSingh/edusubmit-file-service.git
+[submodule "frontend/edusubmit-frontend"]
+	path = frontend/edusubmit-frontend
+	url = https://github.com/ShenSingh/edusubmit-frontend.git
